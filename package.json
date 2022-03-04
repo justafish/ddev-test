@@ -1,0 +1,9 @@
+{
+  "name": "html",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "@lullabot/nightwatch-drupal-commands": "^1.0.0",
+    "nightwatch": "^2.0.10",
+    "nightwatch-accessibility": "^1.11.3"
+  }
+}
